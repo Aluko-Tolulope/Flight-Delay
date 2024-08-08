@@ -20,6 +20,9 @@ Microsoft Power BI
 
 ### Data Preparation
 To establish a comprehensive dataset for analysis, the airline, airport, flight, and cancellation code tables were merged. Rigorous data cleaning processes were implemented to ensure data accuracy and consistency. This involved handling missing values, standardizing data formats, and resolving inconsistencies across datasets. The resulting integrated dataset served as the foundation for subsequent exploratory data analysis.
+![flight delay consolidated](https://github.com/user-attachments/assets/329c8398-8260-420f-ac5d-79e7dbb1e663)
+![cancellation code](https://github.com/user-attachments/assets/04edc4ad-ee45-4218-b17b-39f70449e6a3)
+![airports](https://github.com/user-attachments/assets/cd7fd1d2-1fea-4e49-aafb-a91ad09435ba)
 
 ### Data Cleaning and Visualization
 in this stage,
@@ -27,6 +30,8 @@ in this stage,
 - Carried out cross verification checks and logical checks
 - The tables were merged with the use of primary and foreign keys and the new base table is labelled as Consolidated
 - Added conditional columns to call out months and days of the weeks
+![flight delay](https://github.com/user-attachments/assets/3a473654-6baa-45d7-964c-c1eea468d59e)
+
 ### Data Visualization
 This was done using DAX concepts(Calculated measures, Calculated column,etc), Visuals/Charts,Filters and slicers etc in Power BI
 
